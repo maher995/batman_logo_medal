@@ -8,6 +8,9 @@ This project is a simple **Batman Logo Medal** designed in **Onshape** and expor
 
 - Onshape
 
+## Onshape link
+https://cad.onshape.com/documents/86f8713fadb2b9bfc4267644/w/e95c6ce3ee9047794baf6d3d/e/5ee5be5b444c92dffd5afb0f?renderMode=0&uiState=6a54f5801745280725c9daf5
+
 ## File Format
 
 - STL (`.stl`)
